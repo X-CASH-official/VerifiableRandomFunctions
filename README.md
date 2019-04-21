@@ -1,8 +1,5 @@
 # Verifiable-Random-Functions-VRFs-
-The C/C++ implementation of Verifiable Random Functions (VRFs) based on draft-irtf-cfrg-vrf-03. forked from: https://github.com/algorand/libsodium
-
-![alt text](https://img.shields.io/badge/build-passing-green.svg)
-![alt text](https://img.shields.io/badge/coverage-100%25-green.svg)
+The C/C++ implementation of Verifiable Random Functions (VRFs) based on draft-irtf-cfrg-vrf-03
 
 Test Vectors:
 
